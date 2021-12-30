@@ -1,10 +1,10 @@
-### Seja Bem-Vindo! Sou Cristóvão Rodrigues . 👋
+### Seja Bem-Vindo! Sou Cristóvão Rodrigues 👋
 
 Apaixonado por dados e tecnologia, possuo experiência de aproximadamente 3 anos de trabalho com as linguagens R e Python para fins acadêmicos e profissionais. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem estatística, Machine e Deep Learning, Visão Computacional, banco de dados e mecanismos de busca fazem parte do meu dia a dia. Atuo na área de Planejamento na Copra Industria Alimentícia onde meu objetivo é aplicar conhecimentos de estatística, gestão, planejamento e ciência de dados para desenvolvimento e implementação e gestão de projetos e negócios na empresa. Vinculado ao Engineering and systems group (EASY GROUP - UFAL) na linha de pesquisa Inteligência Artificial Aplicada.
 
-- 🔭 Atualmente estou trabalhando como Controller Industrial.
-- 🌱 Cientista de Dados
-- 👯 Trabalho com as linguagens Python e R.
+- 🏭 Atualmente estou trabalhando como Controller Industrial.
+- 💻 Cientista de Dados
+- 📈 Trabalho com as linguagens Python e R.
 - 📫 Contato: cristovao.rodrigues@hotmail.com
 
 
